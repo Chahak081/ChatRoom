@@ -1,5 +1,3 @@
-###ChatRoom
-
 ```markdown
 # Real-Time Chat App
 
