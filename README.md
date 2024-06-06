@@ -60,10 +60,6 @@ A simple real-time chat application built with PHP, HTML, CSS, and JavaScript.
 4. Push to the branch: `git push origin feature-name`.
 5. Open a pull request.
 
-## License
-
-Licensed under the MIT License.
-
 ## Contact
 
 Feel free to ask any queries!!
