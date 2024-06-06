@@ -1,4 +1,4 @@
-Sure, here's a simplified version of the README file:
+#ChatRoom
 
 ```markdown
 # Real-Time Chat App
